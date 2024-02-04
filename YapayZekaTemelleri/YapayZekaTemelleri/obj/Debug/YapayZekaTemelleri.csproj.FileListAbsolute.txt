@@ -1,0 +1,17 @@
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\YapayZekaTemelleri.exe.config
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\YapayZekaTemelleri.exe
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\YapayZekaTemelleri.pdb
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.csproj.AssemblyReference.cache
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\Interop.SpeechLib.dll
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.csproj.ResolveComReference.cache
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.Form1.resources
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.Properties.Resources.resources
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.csproj.GenerateResource.cache
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.csproj.CoreCompileInputs.cache
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.exe
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.pdb
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\EntityFramework.dll
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\EntityFramework.SqlServer.dll
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\EntityFramework.xml
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\bin\Debug\EntityFramework.SqlServer.xml
+D:\Computer Engineer Department\Yapay Zeka (AI)\YapayZekaTemelleri\YapayZekaTemelleri\obj\Debug\YapayZekaTemelleri.csproj.CopyComplete
